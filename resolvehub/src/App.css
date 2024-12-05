@@ -1,0 +1,32 @@
+.home-h3{
+    border-bottom: 1px solid orangered;
+    display: inline-block;
+       
+}
+.home-h3-2{
+    text-align: justify;
+}
+.home-p{
+    text-align: justify;
+}
+.home-img{
+    height: 350px;
+    width: 350px;
+}
+.home-bg{
+    background-color: rgba(0, 0, 0, 0.158);
+    padding: 15px;
+}
+
+/* .login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 85vh;
+    width: 100vw;
+}
+.form-container{ 
+    width: 300px;
+    padding: 10px;
+} */
